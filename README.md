@@ -20,6 +20,7 @@ Then just run the following command:
  ## &nbsp; Features
 
 Response from server is sent to Toast message logic : Success actions with gree and all errors, validation responses with red
+
 GOOD TASTE CODE HANDLING implemented, using LODASH:  eg:  const text = _.get(req, "body.text", "");
 
 Validation, edge cases implemented for Errors Handling:
