@@ -1,7 +1,7 @@
 
 ## &nbsp; Developer Ion Chirita
 
-## &nbsp; Pizza Orders App
+## &nbsp; Todos App
 
 Stack used for this project: 
 
